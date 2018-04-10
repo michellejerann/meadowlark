@@ -1,0 +1,15 @@
+{
+  "name": "meadowlark",
+  "version": "1.0.0",
+  "description": "Meadowlark Travel Website",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Michelle Chang",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0"
+  }
+}
